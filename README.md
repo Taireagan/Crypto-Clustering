@@ -43,7 +43,7 @@ Additionally, Principal Component Analysis (PCA), a dimensionality reduction tec
 The data used for the analysis was provided by [Crypto Market Data](https://github.com/Taireagan/Crypto-Clustering/blob/main/Resources/crypto_market_data.csv)
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ## Analysis Process 
@@ -56,7 +56,7 @@ The data used for the analysis was provided by [Crypto Market Data](https://gith
 ![standard_scaler](https://github.com/Taireagan/Crypto-Clustering/blob/main/Images/standard_scaler.png)
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ### Finding Best Value for k Using the Scaled DataFrame 
@@ -91,7 +91,7 @@ The data used for the analysis was provided by [Crypto Market Data](https://gith
 </p>
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ### Cluster Cryptocurrencies with K-means Using the Scaled DataFrame 
@@ -114,7 +114,7 @@ The data used for the analysis was provided by [Crypto Market Data](https://gith
 > hover_cols are the columns or data fields that display additional information when you hover over a specific point, providing more context about that data point.
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ### Optimize Clusters with Principal Component Analysis 
@@ -141,7 +141,7 @@ The data used for the analysis was provided by [Crypto Market Data](https://gith
 </div>
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ### Finding Best Value for k Using the PCA DataFrame
@@ -179,7 +179,7 @@ Here we will use the Principal Component Analysis (PCA) as a technique used to s
 
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ### Cluster Cryptocurrencies with K-means Using the PCA DataFrame
@@ -201,7 +201,7 @@ Here we will use the Principal Component Analysis (PCA) as a technique used to s
 
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
 ### Comparing Results
@@ -229,6 +229,6 @@ What is the impact of using fewer features to cluster the data using K-Means?
 
 
 [Back to Top](#top)
-<a href="#top" style="display: inline-block; background-color: black; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Back to Top</a>
+
 
 
